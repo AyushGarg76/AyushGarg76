@@ -33,10 +33,9 @@
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
 │   Name    →  Ayush Garg                                                 │
-│   Uni     →  Thapar Institute of Engineering & Technology, Patiala     │
-│   Domain  →  Agentic AI  ×  Autonomous Robotics                        │
-│   Stack   →  LangChain · ROS · Python · Creo · Gemini · HuggingFace   │
-│   Goal    →  Engineer @ Boston Dynamics / OpenAI / top AI-Robotics lab │
+│   Uni     →  Thapar Institute of Engineering & Technology, Patiala      │
+│   Domain  →  Agentic AI  ×  Autonomous Robotics                         │
+│   Stack   →  LangChain · ROS · Python · Creo · Gemini · HuggingFace     │
 │   Status  →  Building. Learning. Shipping.                              │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -106,14 +105,6 @@ current_focus = {
     "Reading":  ["Embodied AI papers", "OpenAI/DeepMind research blogs"]
 }
 ```
-
----
-
-## 📊 GitHub Pulse
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyushGarg76&theme=tokyonight&hide_border=true" />
 
 
 ---
