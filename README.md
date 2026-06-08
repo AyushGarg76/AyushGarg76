@@ -15,7 +15,6 @@
 <!-- PROFILE BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Garg-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-garg-0987ba286)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ayushgarg76-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ayushgarg76)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web3_Site-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://AyushGarg76.github.io/Web3-Portfolio.github.io/#)
 [![Email](https://img.shields.io/badge/Email-agarg20_be23@thapar.edu-FF8C42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarg20_be23@thapar.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-@a_yu_sh76-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a_yu_sh76)
 
@@ -36,7 +35,7 @@
 │   Uni     →  Thapar Institute of Engineering & Technology, Patiala      │
 │   Domain  →  Agentic AI  ×  Autonomous Robotics                         │
 │   Stack   →  LangChain · ROS · Python · Creo · Gemini · HuggingFace     │
-│   Status  →  Building. Learning. Shipping.                              │
+│   Status  →  Building. Learning. Sharing.                               │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -106,22 +105,6 @@ current_focus = {
 }
 ```
 
-
----
-
-## 🌠 The Trajectory
-
-```
-[2023] ──▶ Python · C · Arduino · Web fundamentals
-[2024] ──▶ ML/AI foundations · LangChain · RAG systems · ROS · Creo
-[2025] ──▶ Agentic pipelines · Autonomous navigation · Competitive DSA
-[2026] ──▶ Internship at a robotics/AI org · Research contribution
-[2027] ──▶ Engineer @ Boston Dynamics · OpenAI · or building my own
-```
-
-> The gap between where I am and where I'm going isn't luck — it's compounding work.
-
----
 
 <div align="center">
 
